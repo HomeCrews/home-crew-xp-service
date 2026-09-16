@@ -1,0 +1,51 @@
+.editorconfig
+  s_3d9bbfd7b8519e::t_0ad0d805c66396 1-35
+.githooks/checks/branch-name.sh
+  s_3d9bbfd7b8519e::t_1cf33ebaf5eb73 1-8
+.githooks/checks/build.sh
+  s_3d9bbfd7b8519e::t_71f215017cecf1 1-31
+.githooks/checks/commit-message.sh
+  s_3d9bbfd7b8519e::t_701266d1b89922 1-52
+.githooks/checks/formatting.sh
+  s_3d9bbfd7b8519e::t_04baab66c8cc00 1-46
+.githooks/checks/secrets.sh
+  s_3d9bbfd7b8519e::t_27c642d5a2c6dc 1-24
+.githooks/commit-msg
+  s_3d9bbfd7b8519e::t_860e795f83fa39 1-12
+.githooks/common.sh
+  s_3d9bbfd7b8519e::t_559194da59d7cb 1-139
+.githooks/install.sh
+  s_3d9bbfd7b8519e::t_dbde40cd3fd3e5 1-32
+.githooks/pre-commit
+  s_3d9bbfd7b8519e::t_dc8a7025fa13c3 1-18
+.githooks/pre-push
+  s_3d9bbfd7b8519e::t_a8f8bc2fc182ef 1-45
+.github/workflows/ci.yml
+  s_3d9bbfd7b8519e::t_0b17e0f0ce9b06 22-28
+.mvn/jvm.config
+  s_3d9bbfd7b8519e::t_df500b0e18be35 1-7
+config/checkstyle.xml
+  s_3d9bbfd7b8519e::t_70cf625a86f3e6 1-132
+config/spotbugs-exclude.xml
+  s_3d9bbfd7b8519e::t_1d83cf2992b2e7 1-54
+lombok.config
+  s_3d9bbfd7b8519e::t_b7c4b0ec00fc31 1-9
+pom.xml
+  s_3d9bbfd7b8519e::t_bd2b016ab30aab 31-70,185-387
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "fa07ff52444178e06111ab866ab377c8c25a20c3",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
