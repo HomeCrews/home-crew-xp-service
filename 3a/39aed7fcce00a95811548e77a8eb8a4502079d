@@ -1,0 +1,21 @@
+.githooks/checks/build.sh
+  s_3d9bbfd7b8519e::t_fe718ac3cb5054 12-13
+.githooks/common.sh
+  s_3d9bbfd7b8519e::t_b64ab72e2d3f08 133-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "3a39aed7fcce00a95811548e77a8eb8a4502079d",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
