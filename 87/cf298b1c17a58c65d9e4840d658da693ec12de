@@ -1,0 +1,23 @@
+src/main/java/com/homecrew/xpservice/XpserviceApplication.java
+  s_3d9bbfd7b8519e::t_f34672e5fa0795 10-12
+src/main/java/com/homecrew/xpservice/controller/XpController.java
+  s_3d9bbfd7b8519e::t_2a53190c7236c0 11-14
+src/test/java/com/homecrew/xpservice/XpserviceApplicationTests.java
+  s_3d9bbfd7b8519e::t_60db59675e5f34 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "87cf298b1c17a58c65d9e4840d658da693ec12de",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
