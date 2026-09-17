@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# homecrew:standards:meta-ignore:start
+# `./mvnw --batch-mode clean verify | tee build.log`
+# see .github/PULL_REQUEST_TEMPLATE.md
+build.log
+# homecrew:standards:meta-ignore:end
