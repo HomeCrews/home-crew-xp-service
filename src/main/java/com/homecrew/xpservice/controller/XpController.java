@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/xp")
 public class XpController {
 
-    @GetMapping("/test")
-    public String test() {
-        return "XP Service is working";
-    }
+  @GetMapping("/test")
+  public String test() {
+    return "XP Service is working";
+  }
 }
