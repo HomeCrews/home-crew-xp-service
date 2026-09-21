@@ -1,0 +1,37 @@
+.editorconfig
+  s_489a83bb3b7447::t_f3906f3e1c12dd 1-9,21-22,32,39
+.gitattributes
+  s_489a83bb3b7447::t_d51519ca8f4cce 3-7,9,11-14,24-25,27-30
+.githooks/checks/formatting.sh
+  s_489a83bb3b7447::t_6291dfe2e80229 2,9-22,42
+.github/CONTRIBUTING.md
+  s_489a83bb3b7447::t_2238d32272ca2b 106
+.gitignore
+  s_489a83bb3b7447::t_e88fd5c7e8a7a8 33-36
+.vscode/settings.json
+  s_489a83bb3b7447::t_bbdc6a33beabbb 1-38
+README.md
+  s_489a83bb3b7447::t_b11d36137afdde 75
+config/checkstyle.xml
+  s_489a83bb3b7447::t_62f92e7cd75b8d 9-12,14,63,152-154,156
+config/eclipse-formatter.xml
+  s_489a83bb3b7447::t_347a6dcc5f4c90 1-364
+pom.xml
+  s_489a83bb3b7447::t_b543635ba5ccd6 61,75-80,288-289,301-305,308-334,338-345,396-397,418
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "930ac32ac41ca7b297308459131cbbb43315098a",
+  "prompts": {},
+  "sessions": {
+    "s_489a83bb3b7447": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c5e37635-0e20-466e-92b9-63976c59e8d5",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
